@@ -4,9 +4,12 @@
 Code for item classification is found in `classification/prosody_classifier.py`. 
 
 Results for different classifier types:
-Single-layer neural network (NN): 63% accuracy
-Naive Bayes classifier: 87% accuracy
-Support Vector Machine (SVM): 89% accuracy
+
++ Single-layer neural network (NN): 63% accuracy
+
++ Naive Bayes classifier: 87% accuracy
+
++ Support Vector Machine (SVM): 89% accuracy
 
 Run `prosody_classifier.py` for SVM results. The trained NN is in `models/prosody_classifier.pt`.
 
